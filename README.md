@@ -33,4 +33,4 @@ Models were trained and evaluated using an 80:20 train-test split.
 
 ## 🧰 Tech Stack
 
-🐍 Python | 🐼 Pandas | 🔢 NumPy | 📊 Matplotlib | 🎨 Seaborn | 📝 NLTK | 🤖 Scikit-learn | ⚡ XGBoost
+🐍 Python | 🐼 Pandas | 🔢 NumPy | 📊 Matplotlib | 🎨 Seaborn |  🤖 Scikit-learn | ⚡ XGBoost
